@@ -24,7 +24,8 @@ def index5(request):
     return HttpResponse('<h1>this is index5<h1/>')
 
 
-
+def index6(request):
+    return HttpResponse('<h1>this is index5<h1/>')
 
 
 
